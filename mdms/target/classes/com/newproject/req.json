@@ -1,0 +1,25 @@
+{
+	"RequestInfo": {
+		"apiId": "asset-services",
+		"ver": null,
+		"ts": null,
+		"action": null,
+		"did": null,
+		"key": null,
+		"msgId": "search with from and to values",
+		"authToken": "29ac159c-5f2c-4f41-9a5e-9b556c291e3d"
+	},
+	"MdmsCriteria": {
+		"tenantId": "pb.amritsar",
+		"moduleDetails": [
+			{
+				"moduleName": "common-masters",
+				"masterDetails": [
+					{
+						"name": "Department"
+					}
+				]
+			}
+		]
+	}
+}
